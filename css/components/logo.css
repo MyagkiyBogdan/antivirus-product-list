@@ -1,0 +1,26 @@
+.logo {
+  display: block;
+  color: #ffb800;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.19;
+  word-spacing: 5px;
+}
+
+.header-logo {
+  border-right: 1px solid #fff;
+  padding: 0 10px 0 0;
+  margin-right: 10px;
+}
+
+.footer-logo {
+  margin-bottom: 5px;
+}
+
+@media screen and (min-width: 720px) {
+  .logo {
+    font-size: 21px;
+  }
+}

@@ -1,0 +1,14 @@
+.download-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.download-icon-top {
+  display: block;
+  width: 108px;
+  height: 123px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}

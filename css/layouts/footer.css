@@ -1,0 +1,10 @@
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.footer-text {
+  font-size: 14px;
+  line-height: 1.19;
+}
